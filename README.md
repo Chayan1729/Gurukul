@@ -1,1 +1,1 @@
-# Gurukul
+# Learning Management System
