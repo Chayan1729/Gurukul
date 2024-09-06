@@ -1,0 +1,76 @@
+Ashok Singh Sairam  and Arav Garg, Detecting Semantic Attacks in Intelligent Transport System, The fourth International Conference on Intelligent Transportation Engineering, Singapore,  IEEE Xplore, 5 – 7 September,2019
+
+ Sangita Roy, Hardik Chawla and  Ashok Singh Sairam , IP traceback in dynamic networks, 2nd ISEA International Conference on Security &amp; Privacy, 2019, Jaipur, India, Communications in Computer and Information Science, vol 939, Springer, Singapore, 9 – 11 January,2019 
+
+Abha Kumari, Joydeep Chandra and  Ashok Singh Sairam , Optimizing flow setup time in software defined network, Communication Systems and Networks, 2018. COMSNETS 2018. Tenth International, Bangalore, India, IEEE Communication Society.[H5 Index:  23], 4 - 7 January,2018 
+
+Ashok Singh Sairam , and Sagar Kumar Verma, “Using Bounded Binary Particle Swarm Optimization to Analyze Network Attack Graphs ”, Nineteenth International Conference on Distributed Computing and Networking (ICDCN), Varanasi, India. [H5 Index: 17], 4 – 7 January,2018 
+
+Akash Yadav, Ashok Singh Sairam,  and Anand Kumar, "Concurrent Team Formation for Multiple Tasks in  Crowdsourcing Platform", IEEE GLOBECOM 2017, Singapore. [H5 Index:  45], 4-8 December,2017
+
+Akash Yadav,  Ashok Singh Sairam  and  Arka Prokash Mazumdar, Selecting Stable Route in Multipath RoutingProtocols, 8th International Conference on Computing Communication and Networking Technologies, Delhi, India [H5 Index:  17], 3 – 5 July,2017
+
+Ojas Mangal Vedhekar,  Ashok Singh Sairam   and Abha Kumari, Binary Countdown Anti-collision Protocol for RFID Tag Collision Problem, IEEE International Conference on Accessibility to Digital World, Guwahati, India, 16 – 18 December,2016
+
+Ravi Sharma, Ashok Singh Sairam,   Akash Yadav and Axel Sikora,   "Tunable Synchronization in Duty cycled Wireless Sensor Networks", 10th   IEEE International Conference on Advanced Networks and   Telecommunications Systems(ANTS), Bangalore, India. .[H5 Index:  11], 6-9 November,2016
+
+Akash Yadav,  Ashok Singh Sairam  and  Rituraj Singh, Efficient user assignment in crowd sourcing applications, International Conference on Advances in Computing, Communication and Informatics (ICACCI 2016), Jaipur, India. [H5 Index:  13], 21 - 24 September,2016
+
+Ashok Singh Sairam, Sangita Roy and Sanjay Dwivedi, Using CAPTCHA Selectively to Mitigate   HTTP-based, IEEE GLOBECOM 2015 , San Diego,   California, USA. [H5 Index:  45] , 6 - 10 December,2015
+           Sangita Roy and  Ashok Singh Sairam , Network Attack Detection and Mitigation, IEEE International Conference on Self-Adaptive and Self-Organizing Systems Workshops (SASOW), Cambridge, USA[H5 Index:  16],21-25 Sept.,2015
+          
+Ashok Singh Sairam,   Rahul Kumar and Pratima Biswas, Implementation of a Traffic-aware   firewall, ACM, Seventh International Conference on Security of   Information and Networks (SIN 2014) , Glasgow, UK. H5 Index:  11],9-11 September,2014
+
+Arka Prokash Mazumdar_, Adhar Surange and Ashok Singh Sairam,   Providing Stable Routes in Mobile Ad hoc Networks, Ninth International   Conference on Wireless Communication and Sensor Networks, WCSN-2013,   Springer, December 16-19,2013
+
+Ashok Singh Sairam,   Sriparna Saha, Asif Ekbal and Gurramapati Ravi Teja Reddy, Improved   Multi-objective Algorithm for Dynamic Load Balancing of Network Traffic,   IEEE INDICON 2013, 13-15 Dec,2013
+
+Anandghan Waghmare, Arka Prokash Majumdar and Ashok Singh Sairam,   Time Synchronization Protocol for 6LoWPAN, 2nd International Conference   on Advances in Computing, Communication and Informatics (ICACCI 2013), Mysore, India. [H5 Index:  13], 22 - 25 August,2013
+          
+          Sangita Roy, Anurag Singh and Ashok Singh Sairam,   IP Traceback in Star Colored Networks, Communication Systems and   Networks, 2013. COMSNETS 2013. Fifth International,   Bangalore, India, IEEE Communication Society. H5 Index:  23], 7 - 10 January,2013
+          
+          Asif Ekbal, Sriparna Saha, Ashok Singh Sairam,   Shaik Hussain, Dynamic Load Balancing of Network Traffic Using   Multiobjective, Third International Conference on Emerging Applications   of Information Technology (EAIT 2012), Kolkata,   India. [H5 Index:  13], 30 Nov - 1 Dec,2012
+          
+          Sangita Roy, Avinash Kumar Singh, Jyotirmayee Parida&nbsp; and Ashok Singh Sairam,   Audio Steganography Using LSB Encoding Technique with Increased   Capacity and Bit Error Rate Optimization, Second International   Conference on Computational Science, Engineering and Information   Technology (CCSEIT 2012), Coimbatore, India, 26 - 28 Oct,2012
+          
+          Samant Saurabh and Ashok Singh Sairam,   Eagle Eyes: Protocol Independent Packet Marking Scheme to Selectively   Filter Attack Packets During Flooding Based DoS and DDoS Attacks, Third   International Conference on Computer and Communication Technology (ICCCT   2012), Allahabad, India. [H5 Index:  15], 23 - 25 Nov.,2012
+          
+          Viswanath Pratap Singh, Arka Prokash Mazumdar and Ashok Singh Sairam,   On Energy Consumption Analysis for Adhoc Routing Protocols,   International Conference on Advances in Computing, Communication and   Informatics (ICACCI 2012), Chennai, India. [H5 Index:  13], 3 - 5 August,2012
+          
+          Sriparna Saha, Ashok Singh Sairam,   Asif Eqbal and Amulya Yadav, Genetic Algorithm combined with Support   Vector Machine for Building and Intrusion Detection System,   International Conference on Advances in Computing, Communication and   Informatics (ICACCI 2012), Chennai, India. [H5 Index:  13], 3 - 5 August,2012
+          
+          Samant Saurabh and Ashok Singh Sairam,   A Novel Scheme for Distributed Star Coloring of Graphs and its   Application in IP Trace Back, Recent Advances in Information Technology,   2012.First International Conference, ISM Dhanbad,   IEEE Communication Society. [H5 Index:  12], 15-17 March,2012
+          
+          Samant Saurabh and Ashok Singh Sairam,   Linear and Remainder Packet Marking for Fast IPTraceBack, Communication   Systems and Networks, 2012. COMSNETS 2012. Fourth International, Bangalore, India, IEEE Communication Society. .[H5 Index:  23].,2012
+          
+          Arka Prokash Majumdar and Ashok Singh Sairam,   PBFS: A Technique to Select Forwarders in Opportunistic Routing, TENCON   2011, 21-24 November 2011, Bali, Indonesia. ISBN: 978-1-4577-0254-9,   IEEE Communication Society. [H5 Index:  8], 3- 7   January,2012
+          
+          Samant Saurabh and Ashok Singh Sairam,   FC-DERM: Fragmentation Compatible Deterministic Edge Router Marking,   The 17th Asia Pacific Conference on Communication, ACPC 2011, Sabah, Malaysia. IEEE Communication Society. .[H5 Index:  12], 2 - 5   October,2011
+         
+          Sangita Roy, Avinash Kumar Singh and Ashok Singh Sairam,   Detecting and Defeating SQL Injection Attacks, International Journal of   Information and Electronics Engineering (IJIEE), IACSIT Press, ISSN:   2010-3719, vol. 1, no. 1. [H5 Index:  12], pp: 38-46,2011
+          
+          Sumit Kumar, Nahar&nbsp; Singh and Ashok Singh Sairam,   Key Validation using a Weighted-Edge Web of Trust Model, International   Conference on Advances in Information Technology and Mobile   Communication, Communications in Computer and Information Science,   Springer Berlin Heidelberg, ISBN: 978-3-642-20573-6, vol. 147, pp   156-161, 21-22 April&nbsp; Nagpur, India,2011 
+          
+          Arka Prokash Majumdar and Ashok Singh Sairam,   Opportunistic Routing: Opportunities and Challenges, International   Conference on Network Communication and Computer, 2011. ICNCC 2011,   International Journal of Information and Electronics Engineering, vol:   2, No: 2, pp: 247-252, IACSIT Press, ISSN: 2010-3719,   New Delhi, India, 21-23 March,2011
+          
+          Ashok Singh Sairam,   Late Ashish Subramaniam and Gautam Barua, Defeating Reflector Based   Denial of Service Attacks using Single Packet Filters, Fifth   International ICST&nbsp; conference on Communications and Networking in   China, CHINACOM 2010, vol., no., pp.1-5, Beijing, China. .[H5 Index:  14], Aug,2010
+          
+          Ashok Singh Sairam and   Gautam Barua, Load Balancing Inbound Traffic in Multihomed Stub   Autonomous Systems, Communication Systems and Networks and Workshops,   2009. COMSNETS 2009. First International , vol., no., pp.1-10, Bangalore, India.[H5 Index:  23], 5-10 Jan.,2009
+          
+          Ashok Singh Sairam and   Gautam Barua, Survey of Bandwidth Estimation Techniques, IEEE   International Advance Computing Conference 2009, IACC 2009, Patiala, India. [H5 Index:  17], 6-7 March,2009
+
+           Abhradeep Datta, B Monish Kumar and   Ashok Singh Sairam, Detecting toxic comments from highly skewed social media data, DOI: 10.1109/ANTS59832.2023.10469000  17th IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Jaipur, India, IEEE, 17 – 20 December,2023
+
+        Puspanjali Ghoshal  and  Ashok Singh Sairam, Relationship between Noise addition and Compression based methods for Differential Privacy in Multi-Agent Systems, DOI:10.1109/ANTS59832.2023.10469107, 17th IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Jaipur, India, IEEE, 17 – 20 December,2023 
+
+        Abha Kumari and  Ashok Singh Sairam , LALB: An SDN Architecture for Dynamic Load Balancing, 16th IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Gandhinagar, India, IEEE, 18 – 21 December,2022 
+
+         Abha Kumari, Joydeep Chandra and  Ashok Singh Sairam , Predictive flow modeling in Software Defined Network, TENCON 2019, Kerala, India, IEEE Xplore, 17 – 20 October,2019 
+
+         Akash Yadav, Sumit  Mishra and  Ashok Singh Sairam , Worker Selection in Crowd-sourced Platforms using Non-dominated Sorting, TENCON 2019, Kerala, India, IEEE Xplore, 17 – 20 October,2019 bharat, developement of India, Vol: 2, January, 2024
+
+hvbhdsbc,ghdvcgv,dgcvvc,2024
+hcbdsshbc,sdsdgcvcvds,2025
+hjcbdsbc,hbchbc,2026
+sbc cdsbc ,2030
+hudscvch,ghsvcvvc,2034

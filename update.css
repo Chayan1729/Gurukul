@@ -1,0 +1,133 @@
+/* General Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #2c3e50;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.navbar-item {
+    margin: 0 15px;
+}
+
+.navbar-link {
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-link:hover {
+    background-color: #34495e;
+    color: white;
+    border-radius: 4px;
+}
+
+/* Main Content Styling */
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.textbox-container {
+    width: 450px;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.textbox-container h2 {
+    margin-bottom: 20px;
+    font-size: 26px;
+    color: #333;
+    text-align: center;
+}
+
+/* Textbox Styling */
+.designer-textbox {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+    margin-bottom: 15px;
+}
+
+.designer-textbox:focus {
+    outline: none;
+    border-color: #1e90ff;
+    background-color: #ffffff;
+    box-shadow: 0 0 8px rgba(30, 144, 255, 0.2);
+}
+
+/* Button Styling */
+.designer-button {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #1e90ff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.designer-button:hover {
+    background-color: #1c86ee;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.designer-button:active {
+    background-color: #1b75d1;
+    transform: translateY(0);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Dropdown Styling */
+select {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+select:focus {
+    border-color: #1e90ff;
+    outline: none;
+}
