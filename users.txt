@@ -1,1 +1,0 @@
-{"username":"chayan@gmail.com","password":"$2y$10$Y.hWmTR8lud4lxEWP9GmT.yP3XpuIRjgR77H9ajsYzV3ET.Q\/YqT2","firstlogin":false}
